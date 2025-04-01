@@ -1,0 +1,23 @@
+HISTORIA DE USUARIO
+
+Cómo:	conductor de tacherango.
+
+Quiero:	que los usuarios puedan dejar propina a los conductores
+
+Para:	agradecer el servicio  de cada conductor. 
+
+------------------------------------------------------------------
+
+Cómo:	usuario frecuente de tacherango.
+
+Quiero:	que exista un botón de emergencia dentro de la aplicación.
+
+Para:	que esta sea más segura y confiable.
+
+------------------------------------------------------------------
+
+Cómo:	usuario nuevo de tacherango.
+
+Quiero:	que haya una guia para pedir un servicio, ya que la interfaz me confunde  un poco.
+
+Para:	no cometer ningún error a la hora de usarla y también ser más ágil en ella.
