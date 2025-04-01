@@ -6,6 +6,8 @@ Quiero:	que los usuarios puedan dejar propina a los conductores
 
 Para:	agradecer el servicio  de cada conductor. 
 
+Criterio de aceptación: Después de completar el viaje el usuario puede elegir un monto extra y agregarlo al pago final.
+
 ------------------------------------------------------------------
 
 Cómo:	usuario frecuente de tacherango.
@@ -14,6 +16,8 @@ Quiero:	que exista un botón de emergencia dentro de la aplicación.
 
 Para:	que esta sea más segura y confiable.
 
+Criterio de aceptación: El usuario puede ver y presionar el botón de emergencia en la pantalla principal durante el viaje, y al presionarlo, se envía una alerta con su ubicación en tiempo real a la central de seguridad de Tacherango.
+
 ------------------------------------------------------------------
 
 Cómo:	usuario nuevo de tacherango.
@@ -21,3 +25,5 @@ Cómo:	usuario nuevo de tacherango.
 Quiero:	que haya una guia para pedir un servicio, ya que la interfaz me confunde  un poco.
 
 Para:	no cometer ningún error a la hora de usarla y también ser más ágil en ella.
+
+Criterio de aceptación: Al ingresar por primera vez en la app, el usuario debe ver una guía interactiva o tutorial paso a paso que le explique cómo pedir un servicio, destacando las opciones clave en la interfaz y asegurando que el usuario pueda seguir el proceso sin cometer errores.
